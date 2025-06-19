@@ -1,8 +1,7 @@
-# Sentiment_analysis_Micro_IT_Project-
-This repository contains a project-- the task that i accomplished in my internship at MICRO IT.
+# Sentiment_analysis_using_customer_reviews
 
-Task: Sentiment analysis using machine learning (Naive Bayes);
-This is a simple **Sentiment Analysis** project built using Python, scikit-learn, and a Naive Bayes classifier. The project classifies text into sentiment categories (e.g., positive, negative, neutral) based on a dataset of labeled text samples.
+Sentiment analysis using machine learning (Naive Bayes);
+This is a simple Sentiment Analysis project built using Python, scikit-learn, and a Naive Bayes classifier. The project classifies text into sentiment categories (e.g., positive, negative, neutral) based on a dataset of labeled text samples.
 
 Used an open source dataset of social media reviews for sentiment analysis, on the basis of this dataset the model predicts whether the input-text is a postive, neutral or negative review. 
 
